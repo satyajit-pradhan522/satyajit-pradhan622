@@ -14,7 +14,7 @@
 - ✊✋✌ Rock Paper Scissors Game – [Repo Link](https://github.com/satyajit-pradhan522/rock-paper-scissors-game)
 - 🧮 Basic Calculator – [Repo Link](https://github.com/satyajit-pradhan522/basic-calculator)
 - ⏰ Digital Clock – [Repo Link](https://github.com/satyajit-pradhan522/clock-using-HTML-CSS---JS)
-- ⏰ Digital Clock – [Repo Link](https://github.com/satyajit-pradhan522/clock-using-HTML-CSS---JS)
+- 💬 Testimonial Slider – [Repo Link](https://github.com/satyajit-pradhan522/testimonial-slider)
 - ⏰ Digital Clock – [Repo Link](https://github.com/satyajit-pradhan522/clock-using-HTML-CSS---JS)
 - ⏰ Digital Clock – [Repo Link](https://github.com/satyajit-pradhan522/clock-using-HTML-CSS---JS)
 
