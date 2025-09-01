@@ -15,7 +15,7 @@
 - 🧮 Basic Calculator – [Repo Link](https://github.com/satyajit-pradhan522/basic-calculator)
 - ⏰ Digital Clock – [Repo Link](https://github.com/satyajit-pradhan522/clock-using-HTML-CSS---JS)
 - 💬 Testimonial Slider – [Repo Link](https://github.com/satyajit-pradhan522/testimonial-slider)
-- ⏰ Digital Clock – [Repo Link](https://github.com/satyajit-pradhan522/clock-using-HTML-CSS---JS)
+- ⚖️ Weight Converter – [Repo Link](https://github.com/satyajit-pradhan522/weight-converter)
 - ⏰ Digital Clock – [Repo Link](https://github.com/satyajit-pradhan522/clock-using-HTML-CSS---JS)
 
 ## 📈 GitHub Stats
