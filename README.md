@@ -16,7 +16,8 @@
 - ⏰ Digital Clock – [Repo Link](https://github.com/satyajit-pradhan522/clock-using-HTML-CSS---JS)
 - 💬 Testimonial Slider – [Repo Link](https://github.com/satyajit-pradhan522/testimonial-slider)
 - ⚖️ Weight Converter – [Repo Link](https://github.com/satyajit-pradhan522/weight-converter)
-- ⏰ Digital Clock – [Repo Link](https://github.com/satyajit-pradhan522/clock-using-HTML-CSS---JS)
+- 🎬 Video Trailer Popup – [Repo Link](https://github.com/satyajit-pradhan522/video-trailer-popup)
+- 🎬 Video Trailer Popup – [Repo Link](https://github.com/satyajit-pradhan522/video-trailer-popup)
 
 ## 📈 GitHub Stats
 ![Satyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajit-pradhan622&show_icons=true&theme=radical)
