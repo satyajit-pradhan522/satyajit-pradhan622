@@ -9,7 +9,7 @@
 
 ## 📌 Projects
 - 🌦️ Weather App – [Repo Link](#)
-- 💰 Currency Converter – [Repo Link](#)
+- 💰 Currency Converter – [Repo Link](https://github.com/satyajit-pradhan522/weather-app)
 - 📊 Age Calculator – [Repo Link](https://github.com/satyajit-pradhan522/age-calculator)
 
 ## 📈 GitHub Stats
