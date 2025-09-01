@@ -12,7 +12,7 @@
 - 🎲 Dice Roll Simulator – [Repo Link](https://github.com/satyajit-pradhan522/dice-roll-simulator)
 - 📊 Age Calculator – [Repo Link](https://github.com/satyajit-pradhan522/age-calculator)
 - ✊✋✌ Rock Paper Scissors Game – [Repo Link](https://github.com/satyajit-pradhan522/rock-paper-scissors-game)
-- 🎲 Dice Roll Simulator – [Repo Link](#)
+- 🧮 Basic Calculator – [Repo Link](https://github.com/satyajit-pradhan522/basic-calculator)
 - 🎲 Dice Roll Simulator – [Repo Link](#)
 - 🎲 Dice Roll Simulator – [Repo Link](#)
 
