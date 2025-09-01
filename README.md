@@ -17,7 +17,7 @@
 - 💬 Testimonial Slider – [Repo Link](https://github.com/satyajit-pradhan522/testimonial-slider)
 - ⚖️ Weight Converter – [Repo Link](https://github.com/satyajit-pradhan522/weight-converter)
 - 🎬 Video Trailer Popup – [Repo Link](https://github.com/satyajit-pradhan522/video-trailer-popup)
-- 🎬 Video Trailer Popup – [Repo Link](https://github.com/satyajit-pradhan522/video-trailer-popup)
+- ❌⭕ Tic Tac Toe Game – [Repo Link](https://github.com/satyajit-pradhan522/tic-tac-toe-game)
 
 ## 📈 GitHub Stats
 ![Satyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajit-pradhan622&show_icons=true&theme=radical)
