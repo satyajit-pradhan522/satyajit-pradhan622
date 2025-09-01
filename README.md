@@ -7,7 +7,7 @@
 - React.js (Learning)  
 - Python (Basics)  
 
-## 📌 Projects
+## 📌 Mini Projects
 - 🌦️ Weather App – [Repo Link](https://github.com/satyajit-pradhan522/weather-app)
 - 🎲 Dice Roll Simulator – [Repo Link](https://github.com/satyajit-pradhan522/dice-roll-simulator)
 - 📊 Age Calculator – [Repo Link](https://github.com/satyajit-pradhan522/age-calculator)
