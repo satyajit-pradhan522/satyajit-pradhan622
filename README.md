@@ -10,7 +10,7 @@
 ## 📌 Projects
 - 🌦️ Weather App – [Repo Link](#)
 - 💰 Currency Converter – [Repo Link](#)
-- 📊 Age Calculator – [Repo Link](age-calculator)
+- 📊 Age Calculator – [Repo Link](https://github.com/satyajit-pradhan522/age-calculator)
 
 ## 📈 GitHub Stats
 ![Satyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajit-pradhan622&show_icons=true&theme=radical)
