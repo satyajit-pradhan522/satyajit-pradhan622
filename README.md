@@ -9,8 +9,12 @@
 
 ## 📌 Projects
 - 🌦️ Weather App – [Repo Link](https://github.com/satyajit-pradhan522/weather-app)
-- 💰 Currency Converter – [Repo Link](#)
+- 🎲 Dice Roll Simulator – [Repo Link](https://github.com/satyajit-pradhan522/dice-roll-simulator)
 - 📊 Age Calculator – [Repo Link](https://github.com/satyajit-pradhan522/age-calculator)
+- 🎲 Dice Roll Simulator – [Repo Link](#)
+- 🎲 Dice Roll Simulator – [Repo Link](#)
+- 🎲 Dice Roll Simulator – [Repo Link](#)
+- 🎲 Dice Roll Simulator – [Repo Link](#)
 
 ## 📈 GitHub Stats
 ![Satyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajit-pradhan622&show_icons=true&theme=radical)
